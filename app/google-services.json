@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167021838773",
+    "project_id": "callme-eb009",
+    "storage_bucket": "callme-eb009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167021838773:android:2abd3d7001e7e1684999fc",
+        "android_client_info": {
+          "package_name": "com.example.internetcalls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGAwbB7A7QCATn3_lPoeRycNGGklTBvB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
